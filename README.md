@@ -22,8 +22,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [https://github.com/nsvonod12/Recipe-page]
-- Live Site URL: []()
+- Solution URL: [https://github.com/nsvonod12/recipe-page]
+- Live Site URL: [https://nsvonod12.github.io/recipe-page/src/index.html]()
 
 ## My process
 It was fantastic, I really enjoyed it and I learned how to use Tailwind CSS better.
